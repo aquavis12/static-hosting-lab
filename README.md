@@ -54,8 +54,7 @@ You need:
 
 ## About SV Technologies
 
-Live cloud training in **Telugu + English** · Ongole, Andhra Pradesh
+Live cloud training in **Telugu + English + Hindi ** · Ongole, Andhra Pradesh
 
 - 🌐 [sv-technologies.in](https://sv-technologies.in)
-- 📺 [youtube.com/@CloudAndTFbyVishnu](https://youtube.com/@CloudAndTFbyVishnu)
-- 👨‍🏫 Vishnu Rachapudi — 14x AWS Certified · AWS Community Builder
+- 📺 [www.youtube.com/@sv-technologies26](https://www.youtube.com/@sv-technologies26)
