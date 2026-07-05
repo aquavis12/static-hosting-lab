@@ -54,7 +54,7 @@ You need:
 
 ## About SV Technologies
 
-Live cloud training in **Telugu + English + Hindi ** · Ongole, Andhra Pradesh
+Live cloud training in ** Telugu + English + Hindi ** · Ongole, Andhra Pradesh
 
 - 🌐 [sv-technologies.in](https://sv-technologies.in)
 - 📺 [www.youtube.com/@sv-technologies26](https://www.youtube.com/@sv-technologies26)
